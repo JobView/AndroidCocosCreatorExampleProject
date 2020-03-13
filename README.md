@@ -1,0 +1,2 @@
+# AndroidCocosCreatorExampleProject
+用于辅助运行cocoscreator android项目
